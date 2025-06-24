@@ -1,5 +1,5 @@
 `````ad-LIST
-title: ⚙️ Compilación vs interpretación **2025-06-23 09:07**
+title: ⚙️ Compilación vs interpretación [[HOME]] **2025-06-23 09:07**
 
 ````ad-LIST
 title: ℹ️ Definicion

@@ -1,5 +1,5 @@
 ````ad-LIST
-title: Diferencias entre C y C++ 2025-06-23 11:47
+title: Diferencias entre C y C++ [[HOME]] 2025-06-23 11:47
 
 ```ad-LIST-ITEM
 title: C++
@@ -36,6 +36,6 @@ title: C
 6. **Aplicaciones típicas: ** - **C** se usa en sistemas embebidos, controladores y software de bajo nivel debido a su cercanía al hardware.
 ```
 
-
+**2025-06-23 21:33**
 ````
 

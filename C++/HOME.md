@@ -72,14 +72,14 @@ title: ✅️ ¿ COMPLETADO ? ❌ (**2025-06-22 22:25**)
 ````ad-LIST-ITEM
 title: ⚙️ Compilación vs interpretación [[Compilación vs interpretación ]]
 ~~~ad-done
-title: ✅️ ¿ COMPLETADO ? ❌
+title: ✅️ ¿ COMPLETADO ? ❌ (**2025-06-23 10:10**)
 ~~~
 ````
 
 ````ad-LIST-ITEM
 title: ⚖️ Diferencias C vs C++ [[Diferencias entre C y C++]]
 ~~~ad-done
-title: ✅️ ¿ COMPLETADO ? ❌
+title: ✅️ ¿ COMPLETADO ? ❌ (**2025-06-23 21:33**)
 ~~~
 ````
 `````
@@ -88,8 +88,8 @@ title: ✅️ ¿ COMPLETADO ? ❌
 title: PRACTICA [[11-PROYECTOS]]
 ````ad-LIST-ITEM
 title: **Proyecto Mini:** Calculadora básica de línea de comandos [[FUNDAMENTOS - Calculadora Basica en la Linea de Comandos]]
-~~~ad-missing
-title: ✅️ ¿ COMPLETADO ? ❌
+~~~ad-done
+title: ✅️ ¿ COMPLETADO ? ❌ (**2025-06-24 11:27**)
 ~~~
 ````
 `````
